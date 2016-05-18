@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Surface Pro 3\Desktop\PracticumAndroid\MyApplication3\Week2Multitouch\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="8a090a210a49fe9637744f40557458f7d5426ec2">
+        <dex dex="C:\Users\Surface Pro 3\Desktop\PracticumAndroid\MyApplication3\Week2Multitouch\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_baa51b9d3779b19d75f83f822c9962637070ce1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Surface Pro 3\Desktop\PracticumAndroid\MyApplication3\Week2Multitouch\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a7af67b9e6dbf296e99f84bc9143a5b98995bae3">
+        <dex dex="C:\Users\Surface Pro 3\Desktop\PracticumAndroid\MyApplication3\Week2Multitouch\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1129755d9b6c1c8bf7dedcd1f23a6d641f78ebd9\classes.dex" />
+    </item>
+
+</items>

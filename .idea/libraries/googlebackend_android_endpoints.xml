@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="googlebackend-android-endpoints">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/googlebackend/build/libs/googlebackend-android-endpoints.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

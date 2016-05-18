@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.surfacepro3.week3.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Contact"
+        android:id="@+id/add"
+        android:onClick="add"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Contacts"
+        android:onClick="viewContent"
+        android:id="@+id/view"
+        android:layout_below="@+id/add"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search Contacts"
+        android:id="@+id/search"
+        android:onClick="searchContact"
+
+        android:layout_below="@+id/view"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Calender"
+        android:id="@+id/update"
+        android:onClick="viewCalendar"
+        android:layout_below="@+id/search"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Popuptest"
+        android:onClick="popuptest"
+        android:layout_below="@+id/update"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

@@ -1,0 +1,1 @@
+CHANGED,C:\Users\Surface Pro 3\Desktop\PracticumAndroid\MyApplication3\Week2Multitouch\build\intermediates\transforms\instantRun\debug\folders\1\5\main\nl\hu\zrb\MultiTouch.class

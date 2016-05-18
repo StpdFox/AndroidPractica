@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "36232583346",
+    "project_id": "week4-ab054"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36232583346:android:bc15523b2fa20ff0",
+        "android_client_info": {
+          "package_name": "backend.matthijspackage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgaaIRWM0b_SscPWKGrC8Um_oU_ukLqbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
